@@ -234,8 +234,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 235900750}
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
-  m_LocalPosition: {x: -1.7082844, y: 0.7355611, z: 8.615675}
-  m_LocalScale: {x: 6, y: 6, z: 6}
+  m_LocalPosition: {x: -1.7059, y: 0.74156, z: 8.615675}
+  m_LocalScale: {x: 5.2799997, y: 5.2799997, z: 5.2799997}
   m_Children: []
   m_Father: {fileID: 210591329}
   m_RootOrder: 2
@@ -483,8 +483,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 566342560}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.6017157, y: 0.88125104, z: 8.615675}
-  m_LocalScale: {x: 6, y: 6, z: 6}
+  m_LocalPosition: {x: 0.32692, y: 0.86977, z: 8.615675}
+  m_LocalScale: {x: 5.2799997, y: 5.2799997, z: 5.2799997}
   m_Children: []
   m_Father: {fileID: 210591329}
   m_RootOrder: 1
@@ -565,8 +565,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 875053961}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.6382843, y: 2.125561, z: 8.615675}
-  m_LocalScale: {x: 6, y: 6, z: 6}
+  m_LocalPosition: {x: -1.6443, y: 1.9648, z: 8.615675}
+  m_LocalScale: {x: 5.2799997, y: 5.2799997, z: 5.2799997}
   m_Children: []
   m_Father: {fileID: 210591329}
   m_RootOrder: 0
@@ -1604,8 +1604,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1741018282}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.9782844, y: 0.86556107, z: 8.615675}
-  m_LocalScale: {x: 6, y: 6, z: 6}
+  m_LocalPosition: {x: -3.7035, y: 0.85596, z: 8.615675}
+  m_LocalScale: {x: 5.2799997, y: 5.2799997, z: 5.2799997}
   m_Children: []
   m_Father: {fileID: 210591329}
   m_RootOrder: 3
@@ -1768,8 +1768,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2131538249}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.5082843, y: -0.554439, z: 8.615675}
-  m_LocalScale: {x: 6, y: 6, z: 6}
+  m_LocalPosition: {x: -1.5299, y: -0.39364, z: 8.615675}
+  m_LocalScale: {x: 5.2799997, y: 5.2799997, z: 5.2799997}
   m_Children: []
   m_Father: {fileID: 210591329}
   m_RootOrder: 4
