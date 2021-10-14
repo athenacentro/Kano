@@ -53,3 +53,6 @@ TagManager:
   - name: Character
     uniqueID: 1973326509
     locked: 0
+  - name: UI
+    uniqueID: 3805364725
+    locked: 0

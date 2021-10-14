@@ -7,6 +7,11 @@ public class MenuView : MonoBehaviour
 {
     public void OnClickNarwhal()
     {
+        SceneManager.LoadScene("NarwhalHelp");
+    }
+
+    public void OnClickPlay()
+    {
         SceneManager.LoadScene("NarwhalMigration");
     }
 }
